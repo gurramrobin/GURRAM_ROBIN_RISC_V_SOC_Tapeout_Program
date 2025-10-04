@@ -113,5 +113,7 @@ By starting simple, modeling functionally, and gradually refining to RTL and phy
 
 ## References 
 
+To have a detailed descriptive explanation you can go through
+
 https://github.com/hemanthkumardm/SFAL-VSD-SoC-Journey/tree/main/11.%20Fundamentals%20of%20SoC%20Design
 
